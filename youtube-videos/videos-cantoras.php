@@ -106,9 +106,9 @@
      border: 1px solid #aaa; margin: auto; padding: 19px;">
     <!-- Faixa Rosa  -->	     
     <h6> <b> ANA GAUNA </b> | ALGUMAS MÚSICAS QUE EU GOSTO DE OUVIR | VÍDEOS PREFERIDOS DO YOUTUBE 
-        DE <a href="http://anagauna.eti.br/musicas/videos-cantores.php" target="_sef" 
+        DE <a href="http://anagauna.eti.br/youtube-videos/videos-cantores.php" target="_sef" 
         style="color:yellow;">CANTORES</a> 
-        E  <a href="http://anagauna.eti.br/musicas/videos-cantoras.php" target="_sef" 
+        E  <a href="http://anagauna.eti.br/youtube-videos/videos-cantoras.php" target="_sef" 
         style="color:yellow;">CANTORAS</a> 
     </h6> 
 </div>

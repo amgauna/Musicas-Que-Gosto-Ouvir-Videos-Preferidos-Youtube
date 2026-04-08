@@ -9,7 +9,7 @@
 
     <!-- HOMENS / inicio do cabeçalho (propriedades padrão) -->
     <title>VIDEOS DE CANTORES | MÚSICAS PREFERIDAS DO YOUTUBE </title>
-    <base href="https://anagauna.eti.br/musicas/videos-cantores.php" target="_sef">
+    <base href="https://anagauna.eti.br/youtube-videos/videos-cantores.php" target="_sef">
 
     <meta charset="utf-8">
 		
