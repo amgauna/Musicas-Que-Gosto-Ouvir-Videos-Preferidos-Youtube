@@ -107,16 +107,16 @@
      border: 1px solid #aaa; margin: auto; padding: 19px;">
     <!-- Faixa Azul  -->	     
     <h6> <b color="red"> ANA GAUNA </b> | ALGUMAS MÚSICAS QUE EU GOSTO DE OUVIR | VÍDEOS PREFERIDOS DO YOUTUBE 
-        DE <a href="http://anagauna.eti.br/musicas/videos-cantores.php" target="_sef" 
+        DE <a href="http://anagauna.eti.br/youtube-videos/videos-cantores.php" target="_sef" 
         style="color:yellow;">CANTORES</a> 
-        E  <a href="http://anagauna.eti.br/musicas/videos-cantoras.php" target="_sef" 
+        E  <a href="http://anagauna.eti.br/youtube-videos/videos-cantoras.php" target="_sef" 
         style="color:yellow;">CANTORAS</a> 
     </h6> 
 </div>   
     
 <div class="fixed-bottom" style="background-color: darkblue; color:#fff; text-align:center;
      border: 1px solid #aaa; margin: auto; padding: 19px;">	     
-    <h6> Este Site foi desenvolvido por <b>ANAGAUNA.ETI.BR</b> | Data da última atualização: 04/12/2022 </h6>  
+    <h6> Este Site foi desenvolvido em 2020 por <b> ANA MERCEDES GAUNA (anagauna.eti.br) </b> | Data da última atualização: 07/04/2026 </h6>   
 </div> 
 
 
